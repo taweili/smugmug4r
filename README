@@ -1,0 +1,32 @@
+SmugMug4r
+    by Jeff Barriault
+    http://rubyforge.org/projects/smugmug4r/
+
+== DESCRIPTION:
+  
+A wrapper around the 1.2.0 JSON API at SmugMug (http://smugmug.com/).
+
+== INSTALL:
+
+Under the projects vendor/plugins directory, create a new directory called
+SmugMug4r and copy all files/folders there.
+
+== LICENSE:
+
+Copyright 2007, 2008 Jeff Barriault
+
+    This file is part of SmugMug4r.
+
+    SmugMug4r is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    SmugMug4r is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with SmugMug4r.  If not, see <http://www.gnu.org/licenses/>.
+
